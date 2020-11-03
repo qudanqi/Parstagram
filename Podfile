@@ -19,5 +19,6 @@ target 'Parstagram' do
   pod 'Parse'
   # Add AlamofireImage and install
   pod 'AlamofireImage'
+  pod 'MessageInputBar'
 
 end
